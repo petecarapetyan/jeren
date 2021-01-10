@@ -2,17 +2,17 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'Walktown',
-    description: 'Walktown is a fantasy place',
+    name: 'not-five38',
+    description: 'not-five38 is a prelimary starter theme for rocket',
     socialLinks: [
       {
         name: 'GitHub',
-        url: 'https://github.com/petecarapetyan/walktown',
+        url: 'https://github.com/petecarapetyan/jeren',
       },
     ],
-    gitSiteUrl: 'https://github.com/petecarapetyan/walktown',
+    gitSiteUrl: 'https://github.com/petecarapetyan/jeren',
     gitBranch: 'main',
-    helpUrl: 'https://github.com/petecarapetyan/walktown/issues',
+    helpUrl: 'https://github.com/petecarapetyan/jeren/issues',
     logoAlt: 'Rocket Logo',
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',
