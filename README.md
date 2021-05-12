@@ -1,11 +1,7 @@
-# not-five38 theme
+# jeren demo site
 
-This is a display of the not-five38 theme
+This repo is a personalized/customized version of the [not-wikipedia fins-rocket-theme](https://github.com/petecarapetyan/fins-rocket-themes/blob/main/not-wikipedia/src/docs/) code.
 
-## As deployed
+## For more information on fins-rocket-themes
 
-https://jeren-5de92.web.app
-
-## Jeren
-
-Jeren is a project used to test deployments, so whatever you see here today may be an entirely different project tomorrow.
+This and other `fins-rocket-themes` are discussed [here](https://webappwriter.com/rocket-themes/) in more detail.
