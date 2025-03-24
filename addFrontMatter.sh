@@ -36,10 +36,19 @@ find "$SITE_DIR" -path "$SITE_DIR/node_modules" -prune -o -type f -name "*.md" -
   # Get the relative path of the file from the 'site' directory
   relative_path="${file#$SITE_DIR/}"
 
-  if $STRIP_FRONTMATTER; then
-    echo "Stripping existing frontmatter from $relative_path"
-    remove_frontmatter "$file"
+   if $STRIP_FRONTMATTER; then
+    filename="$(basename "$file")"
+    parent_dir="$(basename "$(dirname "$file")")"
+    
+    # Skip stripping for index.md or 404.md directly under 'site'
+    if [[ "$parent_dir" == "site" && ( "$filename" == "index.md" || "$filename" == "404.md" ) ]]; then
+      echo "Skipping frontmatter strip for $relative_path (protected file)"
+    else
+      echo "Stripping existing frontmatter from $relative_path"
+      remove_frontmatter "$file"
+    fi
   fi
+
 
   # Check if the first three non-whitespace characters in the file are not '---'
   if ! head -n 1 "$file" | grep -q '^---'; then
