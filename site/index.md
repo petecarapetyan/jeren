@@ -1,147 +1,140 @@
 ---
 title: Lorem Ipsum!
 layout: layout-home
-slogan: non eu sint ullamco incididunt nostrud
+slogan: voluptate deserunt mollit labore enim aliquip nisi ad pariatur qui non mollit
 callToActionItems:
-  - title: laborum nulla nostrud commodo
-    text: >-
-      Ullamco duis non do consequat minim voluptate sit occaecat exercitation
-      aliqua laboris esse anim. Non sunt cupidatat nostrud sint exercitation
-      quis et nisi amet pariatur aliqua pariatur. Culpa labore veniam sunt
-      labore eu sint adipisicing fugiat velit ipsum consequat adipisicing.
-    href: /eiusmod/
+  - title: nulla laborum et adipisicing
+    text: Voluptate sint pariatur non velit.
+    href: /nulla-nisi/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-ibrahimmushan-uNnUdZILKB0.jpg"
-      alt="bulksplash-ibrahimmushan-uNnUdZILKB0.jpg" />
-  - title: dolore ut excepteur
+      src="/static/images/bulksplash-aldebarans-dJlkMGUn9n4.jpg"
+      alt="bulksplash-aldebarans-dJlkMGUn9n4.jpg" />
+  - title: aute Lorem ad proident labore
     text: >-
-      Nulla Lorem in minim laborum est ex proident nisi. In do dolor aliquip
-      culpa velit qui irure consequat Lorem ullamco nostrud ipsum consequat.
-    href: /dolor/
+      Laborum commodo nisi labore elit ea do tempor exercitation adipisicing
+      quis. Deserunt officia officia deserunt cupidatat duis labore cupidatat
+      voluptate commodo sint mollit ullamco elit. Dolor enim fugiat excepteur
+      pariatur aute et eiusmod irure.
+    href: /pariatur/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-sabinasturzu-MQPIRHgXByA.jpg"
-      alt="bulksplash-sabinasturzu-MQPIRHgXByA.jpg" />
+      src="/static/images/bulksplash-cameaagi-m80mGPPSM0c.jpg"
+      alt="bulksplash-cameaagi-m80mGPPSM0c.jpg" />
 
-teaserTitle: eiusmod in amet commodo et
+teaserTitle: consequat sunt velit minim eu
 feature:
-  title: adipisicing do
+  title: mollit elit
   text: >-
-    Cupidatat eiusmod ex est elit labore eu sit tempor. Reprehenderit sunt
-    cillum qui cupidatat ut laborum. Adipisicing nulla enim consectetur
-    reprehenderit. Cillum reprehenderit aute tempor pariatur sint sint non. Non
-    nisi do aliquip voluptate ipsum ex adipisicing ipsum ipsum consequat nisi
-    enim nostrud. Do est dolore Lorem magna laboris non duis proident elit
-    laborum et sint tempor ipsum id. Cillum excepteur sunt dolore aliquip
-    adipisicing mollit mollit. Deserunt commodo commodo sint sint adipisicing
-    elit nostrud duis ut nostrud enim mollit.
-  href: /labore-ad/veniam-reprehenderit/
+    Commodo laborum laboris mollit cillum ex irure. Consequat laboris
+    consectetur sint id qui sunt eiusmod excepteur. Consectetur reprehenderit
+    incididunt nostrud.
+  href: /occaecat/labore/
   img: >-
     <img class="bordered"
-    src="/_merged_assets/_static/images/bulksplash-hakannural-g_4t60hf4hw.jpg"
-    alt="bulksplash-hakannural-g_4t60hf4hw.jpg" />
+    src="/static/images/bulksplash-bencollins-u2e5yxz_qQo.jpg"
+    alt="bulksplash-bencollins-u2e5yxz_qQo.jpg" />
 
 teasers:
-  - title: ullamco esse tempor
-    text: Officia Lorem enim aliquip.
-    href: /eiusmod/
+  - title: voluptate ex laborum
+    text: >-
+      Cupidatat aliqua amet eiusmod minim voluptate id. Tempor aliqua
+      adipisicing ea laborum aliquip enim. Pariatur est cupidatat ut velit ea
+      aliquip ea velit cupidatat.
+    href: /nulla-nisi/officia/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-jontyson-50J-5CeK9rI.jpg"
+      src="/static/images/bulksplash-ibrahimmushan-20CJCyPq4lE.jpg"
+      alt="bulksplash-ibrahimmushan-20CJCyPq4lE.jpg" />
+  - title: culpa id eu anim
+    text: Sunt ad eiusmod tempor id in.
+    href: /nulla-nisi/officia/
+    img: >-
+      <img class="bordered"
+      src="/static/images/bulksplash-intricateexplorer-nSk4ko0uUjA.jpg"
+      alt="bulksplash-intricateexplorer-nSk4ko0uUjA.jpg" />
+  - title: culpa sit dolor cillum
+    text: >-
+      Duis proident non ex veniam aliquip sunt excepteur sit est nisi excepteur.
+      Voluptate elit elit do aliqua sint officia est elit sint aliqua dolor
+      excepteur amet aliquip.
+    href: /nulla-nisi/laboris/
+    img: >-
+      <img class="bordered"
+      src="/static/images/bulksplash-archiecarlson-kiLBgRsAoiA.jpg"
+      alt="bulksplash-archiecarlson-kiLBgRsAoiA.jpg" />
+  - title: est et incididunt
+    text: >-
+      Sit non tempor commodo ad excepteur in minim ad officia. Incididunt
+      laboris commodo sit eiusmod dolore. Sit Lorem irure incididunt sit ex
+      ipsum duis consectetur dolore occaecat adipisicing sint in aliqua.
+    href: /pariatur/
+    img: >-
+      <img class="bordered"
+      src="/static/images/bulksplash-archiecarlson-kiLBgRsAoiA.jpg"
+      alt="bulksplash-archiecarlson-kiLBgRsAoiA.jpg" />
+  - title: nulla veniam enim
+    text: >-
+      Sit quis in laborum ea consectetur ad laboris nulla. Velit dolore sunt
+      laborum pariatur aliqua mollit excepteur. Aliqua sit non veniam ex
+      adipisicing tempor qui sint aliquip id sit eu quis labore occaecat.
+    href: /pariatur/exercitation/
+    img: >-
+      <img class="bordered"
+      src="/static/images/bulksplash-jontyson-50J-5CeK9rI.jpg"
       alt="bulksplash-jontyson-50J-5CeK9rI.jpg" />
-  - title: occaecat nulla Lorem nostrud
+  - title: magna voluptate exercitation aliqua minim
     text: >-
-      Ullamco eu ex dolore adipisicing. Nisi exercitation officia proident dolor
-      ut aute reprehenderit aliquip dolor aliquip ad fugiat officia in.
-    href: /eiusmod/aliqua/
+      Veniam anim incididunt laborum commodo ipsum anim velit exercitation
+      ullamco sit duis adipisicing minim ea.
+    href: /pariatur/voluptate/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-harix-_cCMBjl6y4s.jpg"
-      alt="bulksplash-harix-_cCMBjl6y4s.jpg" />
-  - title: irure commodo sit
-    text: Est velit laboris laborum proident adipisicing minim non minim sunt elit.
-    href: /eiusmod/nulla-laborum/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-darthpaghius-oFauMbDVL-g.jpg"
-      alt="bulksplash-darthpaghius-oFauMbDVL-g.jpg" />
-  - title: aliqua voluptate enim
+      src="/static/images/bulksplash-aranprime-SoN2wSBk8Mg.jpg"
+      alt="bulksplash-aranprime-SoN2wSBk8Mg.jpg" />
+  - title: id officia proident reprehenderit
     text: >-
-      Commodo voluptate non laboris deserunt culpa dolor pariatur duis enim est
-      do ipsum aliquip officia magna. Aliqua culpa Lorem ad velit sunt eiusmod
-      enim nulla reprehenderit excepteur occaecat est proident commodo laboris.
-      Magna Lorem irure dolor enim Lorem eiusmod ut dolore excepteur proident
-      proident aute occaecat velit.
-    href: /eiusmod/dolore-laboris/
+      Eiusmod quis ea proident do eiusmod irure cupidatat amet nisi consequat do
+      nisi Lorem eu. Sit elit ipsum ut amet laboris in eu elit est.
+    href: /pariatur/aliquip-excepteur/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-darthpaghius-oFauMbDVL-g.jpg"
-      alt="bulksplash-darthpaghius-oFauMbDVL-g.jpg" />
-  - title: est do amet cupidatat
-    text: >-
-      Adipisicing incididunt esse magna ad ipsum nostrud ullamco excepteur
-      occaecat ut voluptate in Lorem sunt ut. Aliquip irure exercitation
-      adipisicing voluptate aliqua ex anim proident deserunt.
-    href: /dolor/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-ger46-kRPEkPXyexw.jpg"
-      alt="bulksplash-ger46-kRPEkPXyexw.jpg" />
-  - title: eiusmod laborum in officia proident
-    text: >-
-      Voluptate proident reprehenderit adipisicing laboris commodo incididunt
-      ullamco laboris mollit excepteur sunt amet labore aute.
-    href: /dolor/excepteur-consequat/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-cameaagi-m80mGPPSM0c.jpg"
-      alt="bulksplash-cameaagi-m80mGPPSM0c.jpg" />
-  - title: anim culpa pariatur aliqua ullamco
-    text: >-
-      Duis anim et nostrud consequat enim id. Ut labore qui sit Lorem enim
-      nostrud.
-    href: /dolor/adipisicing/
-    img: >-
-      <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-aldebarans-dJlkMGUn9n4.jpg"
+      src="/static/images/bulksplash-aldebarans-dJlkMGUn9n4.jpg"
       alt="bulksplash-aldebarans-dJlkMGUn9n4.jpg" />
-  - title: deserunt exercitation aliqua excepteur excepteur
+  - title: fugiat est quis
     text: >-
-      Laboris fugiat commodo irure. Eu sunt elit minim cupidatat ex amet quis
-      dolor labore dolor quis eu mollit cupidatat ea.
-    href: /dolor/mollit/
+      Esse ea dolore magna dolor adipisicing mollit est consequat. Excepteur
+      deserunt in labore laborum quis amet do dolore laborum exercitation non
+      sunt exercitation sint. Consectetur cillum consectetur laborum ut.
+    href: /occaecat/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-intricateexplorer-T5b_pS1z8l4.jpg"
-      alt="bulksplash-intricateexplorer-T5b_pS1z8l4.jpg" />
-  - title: mollit eiusmod cillum amet qui
-    text: >-
-      Nulla sunt sint veniam sint nulla mollit esse dolor. Exercitation ipsum
-      non tempor consequat.
-    href: /labore-ad/
+      src="/static/images/bulksplash-intricateexplorer-nSk4ko0uUjA.jpg"
+      alt="bulksplash-intricateexplorer-nSk4ko0uUjA.jpg" />
+  - title: irure Lorem
+    text: Nisi dolor ad ullamco Lorem laboris mollit.
+    href: /occaecat/officia-magna/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-alex_andrews-Hx2LzoAPMmU.jpg"
-      alt="bulksplash-alex_andrews-Hx2LzoAPMmU.jpg" />
-  - title: reprehenderit nostrud in magna Lorem
+      src="/static/images/bulksplash-ger46-CgkSaLNzc-8.jpg"
+      alt="bulksplash-ger46-CgkSaLNzc-8.jpg" />
+  - title: nulla esse ullamco
     text: >-
-      Reprehenderit ea ut et aute id Lorem deserunt reprehenderit. Enim eu elit
-      velit voluptate exercitation consequat tempor minim ullamco. Sint cillum
-      deserunt aliquip magna amet laborum consequat adipisicing nulla.
-    href: /labore-ad/laborum-excepteur/
+      Eiusmod enim esse Lorem fugiat occaecat mollit incididunt non. Magna eu
+      aliqua laborum ut elit voluptate non cillum enim sunt.
+    href: /occaecat/duis-laborum/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-eliasjonassonn-U6tMPoFd1gE.jpg"
-      alt="bulksplash-eliasjonassonn-U6tMPoFd1gE.jpg" />
-  - title: quis officia ullamco ut
+      src="/static/images/bulksplash-amyshamblen-GVu2B8IJrCk.jpg"
+      alt="bulksplash-amyshamblen-GVu2B8IJrCk.jpg" />
+  - title: laboris duis consectetur consequat proident
     text: >-
-      Qui qui Lorem amet enim commodo qui consequat amet qui cillum est cillum
-      deserunt.
-    href: /labore-ad/veniam-reprehenderit/
+      Magna consectetur exercitation ex consequat proident dolor proident
+      consequat labore pariatur commodo amet sint eiusmod.
+    href: /occaecat/labore/
     img: >-
       <img class="bordered"
-      src="/_merged_assets/_static/images/bulksplash-eliasjonassonn-U6tMPoFd1gE.jpg"
-      alt="bulksplash-eliasjonassonn-U6tMPoFd1gE.jpg" />
+      src="/static/images/bulksplash-ger46-CgkSaLNzc-8.jpg"
+      alt="bulksplash-ger46-CgkSaLNzc-8.jpg" />
 
 ---
