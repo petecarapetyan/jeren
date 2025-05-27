@@ -2,13 +2,13 @@ module.exports = function () {
   return {
     dir: 'ltr',
     lang: 'en',
-    name: 'markdownPedia',
-    description: 'not-wikipedia  theme',
+    name: 'HI 2035',
+    description: 'HI 2035 - Human Intelligence',
     socialLinks: [
       {
         name: 'GitHub',
         image: '/static/brand-logos/github.svg',
-        url: 'https://github.com/petecarapetyan/fins-rocket-themes/tree/main/not-wired/src/docs',
+        url: 'https://github.com/petecarapetyan/hi2035',
       },
       {
         name: 'Youtube',
@@ -21,9 +21,9 @@ module.exports = function () {
         url: 'https://www.linkedin.com/in/pete-carapetyan-b3a39b/',
       },
     ],
-    gitSiteUrl: 'https://github.com/petecarapetyan/fins-rocket-themes',
+    gitSiteUrl: 'https://github.com/petecarapetyan/hi2035',
     gitBranch: 'main',
-    helpUrl: 'https://github.com/petecarapetyan/fins-rocket-themes/issues',
+    helpUrl: 'https://github.com/petecarapetyan/hi2035/issues',
     logoAlt: 'Rocket Logo',
     iconColorMaskIcon: '#3f93ce',
     iconColorMsapplicationTileColor: '#1d3557',
